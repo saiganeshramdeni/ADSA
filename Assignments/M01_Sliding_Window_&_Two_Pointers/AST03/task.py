@@ -6,5 +6,5 @@ def countGoodSubstrings(s: str) -> int:
       return count
 
 if __name__ == '__main__':
-    s = input()
-    print(countGoodSubstrings(s))
+      s = input()
+      print(countGoodSubstrings(s))

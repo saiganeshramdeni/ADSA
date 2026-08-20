@@ -1,4 +1,4 @@
-def pairInSortedRotated(arr, target):  
+def pairInSortedRotated(arr, target):
    n = len(arr)
    pivot = 0
    for i in range(n - 1):

@@ -1,4 +1,4 @@
-#1572. Matrix Diagonal Sum
+'''#1572. Matrix Diagonal Sum
 
 # traditional approach
 class Solution:
@@ -51,7 +51,6 @@ class solution:
             Diagonal.reverse()
         res += Diagonal
     return res 
+    
         
-
-        
-        
+        '''
